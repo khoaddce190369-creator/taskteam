@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "taskName": "Tích hợp Cloud: Thu thập hạ tầng log OpenStack Control Plane (Bước 1)",
+            "description": "Triển khai cài đặt và phân bổ Wazuh Agent lên các node vật lý của OpenStack. Tiến hành cấu hình tệp tin ossec.conf để kéo audit log trực tiếp từ các API thành phần: Keystone, Nova, và Neutron chuyển tiếp về trung tâm SIEM.",
+            "deadline": "14/06/2026",
+            "progress": 0,
+            "note": "Tuần 1 - Mũi nhọn mảng Cloud Security. Phải bóc tách được log của lớp điều khiển (Control Plane) thay vì log hệ điều hành máy ảo thông thường.",
+            "status": "Pending",
+            "id": 1781101870043,
+            "createdAt": "2026-06-10T14:31:00.104Z"
+        },
+        {
+            "taskName": "Lập trình tập lệnh phản ứng tự động Cloud: OpenStack SOAR script (Bước 4)",
+            "description": "Xây dựng và phát triển một script độc lập bằng ngôn ngữ Python sử dụng thư viện kết nối API của Neutron để tự động thay đổi, gán máy ảo bị nhiễm độc vào một Security Group cách ly mạng.",
+            "deadline": "21/06/2026",
+            "progress": 0,
+            "note": "Tuần 2 - Đòi hỏi xử lý logic chặt chẽ, cấu hình cơ chế loại trừ (Whitelisting) các IP quản trị để tránh kịch bản SOAR tự bóp chết hạ tầng Cloud.",
+            "status": "Pending",
+            "id": 1781101860781,
+            "createdAt": "2026-06-10T14:31:00.104Z"
+        },
+        {
+            "taskName": "Kiểm thử diễn tập tích hợp mảng Cloud & Nghiệm thu luồng End-to-End (Bước 5)",
+            "description": "Tham gia vào đợt Purple Team phối hợp cùng Khoa và Trọng: Theo dõi luồng tấn công ảo hóa, kích hoạt chuỗi phản ứng cô lập tự động từ API và đo lường metric thời gian thực thi của OpenStack Cloud.",
+            "deadline": "08/07/2026",
+            "progress": 0,
+            "note": "Tuần 3 + 4 - Đảm bảo tính ổn định của mã nguồn SOAR Cloud khi phân tách tải mạng. Hoàn thiện tài liệu báo cáo kỹ thuật phần OpenStack.",
+            "status": "Pending",
+            "id": 1781101861060,
+            "createdAt": "2026-06-10T14:31:00.104Z"
+        }
+    ]
+}

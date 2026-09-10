@@ -1,0 +1,64 @@
+{
+    "tasks": [
+        {
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "description": "Khắc phục lỗi rò rỉ log plaintext bằng cách cấu hình chứng chỉ số, bật TLS/SSL toàn bộ đường truyền (Agent-Manager, Filebeat-Indexer). Sửa lỗi nmap dropped packet bằng cách cấu hình rule iptables LOG target trên Router đứng trước.",
+            "deadline": "14/06/2026",
+            "progress": 100,
+            "note": "Tạm thời tắt tường lửa, chưa fix xong syslog",
+            "status": "Done",
+            "id": 1782466918303,
+            "createdAt": "2026-06-26T09:41:52.804Z"
+        },
+        {
+            "taskName": "Xây dựng tập dữ liệu Machine Learning Baseline & Trích xuất log kiểm thử AI",
+            "description": "Dựng môi trường Jupyter Notebook, viết script cào và làm sạch toàn bộ log hệ thống ở trạng thái hoạt động bình thường của phòng Lab, xuất ra định dạng file CSV/JSON sạch. Trích xuất tệp log minh chứng để kiểm thử tính năng AI.",
+            "deadline": "08/07/2026",
+            "progress": 50,
+            "note": "Đã setup thành công Jupyter, có script để tự cào log từ index, đang đợi đợt pentest 2 để có log",
+            "status": "In Progress",
+            "id": 1782466918719,
+            "createdAt": "2026-06-26T09:41:52.804Z"
+        },
+        {
+            "taskName": "Dựng đường hầm claudeflare",
+            "description": "Dựng một đường hầm ssh tới máy cloud thông qua claduetunnel",
+            "deadline": "19/06/2026",
+            "progress": 100,
+            "note": "Setup thành công\nUsername: cloud\nPassword: 12345678\n",
+            "status": "Done",
+            "id": 1782466919137,
+            "createdAt": "2026-06-26T09:41:52.804Z"
+        },
+        {
+            "taskName": "Setup server MISP",
+            "description": "Config để MISP tự đi lấy thông tin tình báo từ các intelligence platform open source trên internet",
+            "deadline": "23/06/2026",
+            "progress": 100,
+            "note": "",
+            "status": "Done",
+            "id": 1782466914258,
+            "createdAt": "2026-06-26T09:41:52.804Z"
+        },
+        {
+            "taskName": "Cào trích xuất log bình thường từ syslog, endpoint, cloud, web ra định dạng CSV/JSON làm baseline cho ML.",
+            "description": "Thu thập và export toàn bộ alert/log \"bình thường\" (benign activity) từ Wazuh Indexer(log của syslog, endpoint, cloud, web) ra CSV/JSON có cấu trúc, làm training data sạch cho anomaly detection model.",
+            "deadline": "30/06/2026",
+            "progress": 50,
+            "note": "Đợi Trọng về mở web, đợi Đoàn Nghĩa hoàn thành đẩy log từ cloud rồi hoàn thành web và cloud, trước mắt lấy log từ endpoint và syslog trước",
+            "status": "Pending",
+            "id": 1782466916145,
+            "createdAt": "2026-06-26T09:41:52.804Z"
+        },
+        {
+            "taskName": "Triển khai tính năng GeoIP Enrichment (Làm giàu dữ liệu địa lý)",
+            "description": "Nạp cơ sở dữ liệu MaxMind GeoLite2 vào Wazuh Indexer, thiết lập Ingest Pipeline tự động phân giải tọa độ từ IP và tạo biểu đồ Coordinate Map trên Dashboard.",
+            "deadline": "08/07/2026",
+            "progress": 0,
+            "note": "",
+            "status": "Pending",
+            "id": 1783407399554,
+            "createdAt": "2026-07-07T06:56:39.554Z"
+        }
+    ]
+}

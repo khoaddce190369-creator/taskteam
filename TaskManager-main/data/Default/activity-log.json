@@ -1,0 +1,1320 @@
+{
+    "logs": [
+        {
+            "id": 1784877091982,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "14:11:31 24/7/2026"
+        },
+        {
+            "id": 1784877080015,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Sửa lại Tính năng 1,3",
+            "time": "14:11:20 24/7/2026"
+        },
+        {
+            "id": 1784711117634,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "Sửa lại Tính năng 1,3",
+            "time": "16:05:17 22/7/2026"
+        },
+        {
+            "id": 1784623546779,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:45:46 21/7/2026"
+        },
+        {
+            "id": 1784623484631,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:44:44 21/7/2026"
+        },
+        {
+            "id": 1784623481567,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:44:41 21/7/2026"
+        },
+        {
+            "id": 1784623476594,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:44:36 21/7/2026"
+        },
+        {
+            "id": 1784623476102,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:44:36 21/7/2026"
+        },
+        {
+            "id": 1784623476097,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "Thay đổi AI sang GEMINI",
+            "time": "15:44:36 21/7/2026"
+        },
+        {
+            "id": 1784623300061,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Nghiên cứu Prompt AI nâng cao (TN5 + TN6) & Đóng gói Git Repo",
+            "time": "15:41:40 21/7/2026"
+        },
+        {
+            "id": 1784623294686,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "AI - Tính Năng 3 (Generation Report) ",
+            "time": "15:41:34 21/7/2026"
+        },
+        {
+            "id": 1783407489959,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Nghiên cứu Prompt AI nâng cao (TN5 + TN6) & Đóng gói Git Repo",
+            "time": "13:58:09 7/7/2026"
+        },
+        {
+            "id": 1783407424164,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Triển khai tính năng GeoIP Enrichment (Làm giàu dữ liệu địa lý)",
+            "time": "13:57:04 7/7/2026"
+        },
+        {
+            "id": 1783407399557,
+            "user": "nhannghia",
+            "action": "CREATE",
+            "taskName": "Triển khai tính năng GeoIP Enrichment (Làm giàu dữ liệu địa lý)",
+            "time": "13:56:39 7/7/2026"
+        },
+        {
+            "id": 1783080064362,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Cào trích xuất log bình thường từ syslog, endpoint, cloud, web ra định dạng CSV/JSON làm baseline cho ML.",
+            "time": "19:01:04 3/7/2026"
+        },
+        {
+            "id": 1782914957318,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "AI - Tính Năng 3 (Generation Report) ",
+            "time": "21:09:17 1/7/2026"
+        },
+        {
+            "id": 1782912766319,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix thehive",
+            "time": "20:32:46 1/7/2026"
+        },
+        {
+            "id": 1782912679499,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix Cortex",
+            "time": "20:31:19 1/7/2026"
+        },
+        {
+            "id": 1782912663368,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "LOG-DASHBOAR (Audit ubutun-admin)",
+            "time": "20:31:03 1/7/2026"
+        },
+        {
+            "id": 1782912656097,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Hiển thị log trên các vega panel mới",
+            "time": "20:30:56 1/7/2026"
+        },
+        {
+            "id": 1782912637774,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix dashboard",
+            "time": "20:30:37 1/7/2026"
+        },
+        {
+            "id": 1782912604573,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix Owasp Juice Shop",
+            "time": "20:30:04 1/7/2026"
+        },
+        {
+            "id": 1782912582756,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix dashboard",
+            "time": "20:29:42 1/7/2026"
+        },
+        {
+            "id": 1782912572370,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Dashboard",
+            "time": "20:29:32 1/7/2026"
+        },
+        {
+            "id": 1782912563067,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Web Owasp Juice Shop",
+            "time": "20:29:23 1/7/2026"
+        },
+        {
+            "id": 1782909549440,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Hiển thị log trên các vega panel mới",
+            "time": "19:39:09 1/7/2026"
+        },
+        {
+            "id": 1782906674091,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Triển khai tính năng GeoIP Enrichment (Làm giàu dữ liệu địa lý)",
+            "time": "18:51:14 1/7/2026"
+        },
+        {
+            "id": 1782830689851,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Hiển thị log trên các vega panel mới",
+            "time": "21:44:49 30/6/2026"
+        },
+        {
+            "id": 1782830513014,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Hiển thị log trên các vega panel mới",
+            "time": "21:41:53 30/6/2026"
+        },
+        {
+            "id": 1782830446276,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "LOG-DASHBOAR (Audit ubutun-admin)",
+            "time": "21:40:46 30/6/2026"
+        },
+        {
+            "id": 1782830430546,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "LOG-DASHBOAR (Audit ubutun-admin)",
+            "time": "21:40:30 30/6/2026"
+        },
+        {
+            "id": 1782830105972,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Cortex",
+            "time": "21:35:05 30/6/2026"
+        },
+        {
+            "id": 1782827646944,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test TheHive",
+            "time": "20:54:06 30/6/2026"
+        },
+        {
+            "id": 1782486881197,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Kiểm tra và fix lỗi các decoder và rule custom",
+            "time": "22:14:41 26/6/2026"
+        },
+        {
+            "id": 1782486876943,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Kiểm tra và fix lỗi 3 tính năng AI",
+            "time": "22:14:36 26/6/2026"
+        },
+        {
+            "id": 1782486449165,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Làm báo cáo tổng",
+            "time": "22:07:29 26/6/2026"
+        },
+        {
+            "id": 1782486416038,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Làm báo cáo task",
+            "time": "22:06:56 26/6/2026"
+        },
+        {
+            "id": 1782486368541,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix Owasp Juice Shop",
+            "time": "22:06:08 26/6/2026"
+        },
+        {
+            "id": 1782486334016,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix dashboard",
+            "time": "22:05:34 26/6/2026"
+        },
+        {
+            "id": 1782486280821,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix Cortex",
+            "time": "22:04:40 26/6/2026"
+        },
+        {
+            "id": 1782485841440,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix thehive",
+            "time": "21:57:21 26/6/2026"
+        },
+        {
+            "id": 1782485815142,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Fix rule, decoder",
+            "time": "21:56:55 26/6/2026"
+        },
+        {
+            "id": 1782485800552,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix rule",
+            "time": "21:56:40 26/6/2026"
+        },
+        {
+            "id": 1782485767874,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Fix AI",
+            "time": "21:56:07 26/6/2026"
+        },
+        {
+            "id": 1782485617887,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Web Owasp Juice Shop",
+            "time": "21:53:37 26/6/2026"
+        },
+        {
+            "id": 1782485583855,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Test Web Owasp Juice Shop",
+            "time": "21:53:03 26/6/2026"
+        },
+        {
+            "id": 1782485543716,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Test Dashboard",
+            "time": "21:52:23 26/6/2026"
+        },
+        {
+            "id": 1782485504132,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test TheHive",
+            "time": "21:51:44 26/6/2026"
+        },
+        {
+            "id": 1782485468979,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test AI",
+            "time": "21:51:08 26/6/2026"
+        },
+        {
+            "id": 1782485438122,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Test Cortex",
+            "time": "21:50:38 26/6/2026"
+        },
+        {
+            "id": 1782485397460,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test rule, decoder",
+            "time": "21:49:57 26/6/2026"
+        },
+        {
+            "id": 1782485383328,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Test TheHive",
+            "time": "21:49:43 26/6/2026"
+        },
+        {
+            "id": 1782485347179,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Thực hiện pentest toàn diện để kiểm tra toàn bộ hệ thống và ghi chú lại lỗi cần fix",
+            "time": "21:49:07 26/6/2026"
+        },
+        {
+            "id": 1782485334351,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Fix các lỗi sau đợt pentest",
+            "time": "21:48:54 26/6/2026"
+        },
+        {
+            "id": 1782485316316,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Kiểm tra các rule, decoder",
+            "time": "21:48:36 26/6/2026"
+        },
+        {
+            "id": 1782485200552,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Kiểm tra AI",
+            "time": "21:46:40 26/6/2026"
+        },
+        {
+            "id": 1782484339791,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Kiểm tra và fix MISP",
+            "time": "21:32:19 26/6/2026"
+        },
+        {
+            "id": 1782468441136,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "17:07:21 26/6/2026"
+        },
+        {
+            "id": 1782467268158,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Nghiên cứu Prompt AI nâng cao (TN5 + TN6) & Đóng gói Git Repo",
+            "time": "16:47:48 26/6/2026"
+        },
+        {
+            "id": 1782466912806,
+            "user": "SYSTEM",
+            "action": "IMPORT JSON",
+            "taskName": "5 task",
+            "time": "16:41:52 26/6/2026"
+        },
+        {
+            "id": 1782466575040,
+            "user": "SYSTEM",
+            "action": "IMPORT JSON",
+            "taskName": "5 task",
+            "time": "16:36:15 26/6/2026"
+        },
+        {
+            "id": 1782466280074,
+            "user": "nhannghia",
+            "action": "DELETE",
+            "taskName": "Setup server MISP",
+            "time": "16:31:20 26/6/2026"
+        },
+        {
+            "id": 1782466278574,
+            "user": "nhannghia",
+            "action": "DELETE",
+            "taskName": "Dựng đường hầm claudeflare",
+            "time": "16:31:18 26/6/2026"
+        },
+        {
+            "id": 1782466276968,
+            "user": "nhannghia",
+            "action": "DELETE",
+            "taskName": "Xây dựng tập dữ liệu Machine Learning Baseline & Trích xuất log kiểm thử AI",
+            "time": "16:31:16 26/6/2026"
+        },
+        {
+            "id": 1782466275634,
+            "user": "nhannghia",
+            "action": "DELETE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "16:31:15 26/6/2026"
+        },
+        {
+            "id": 1782466272546,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "16:31:12 26/6/2026"
+        },
+        {
+            "id": 1782466271350,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Diễn tập thực chiến Purple Team, R&D AI nâng cao và Đóng gói bàn giao",
+            "time": "16:31:11 26/6/2026"
+        },
+        {
+            "id": 1782466270122,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Thiết kế bộ Rule Engine nâng cao, SOAR Cloud Playbook và Nghiên cứu ML Baseline",
+            "time": "16:31:10 26/6/2026"
+        },
+        {
+            "id": 1782466268960,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "16:31:08 26/6/2026"
+        },
+        {
+            "id": 1782466267804,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "16:31:07 26/6/2026"
+        },
+        {
+            "id": 1782466265149,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "16:31:05 26/6/2026"
+        },
+        {
+            "id": 1782466263734,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Xây dựng Lateral movement rule, R&D AI (TN5+TN6) và Cầm trịch Red Team Drill",
+            "time": "16:31:03 26/6/2026"
+        },
+        {
+            "id": 1782466261658,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Thiết kế Rule Engine nâng cao: Decoder coverage audit, OWASP và OpenStack rules",
+            "time": "16:31:01 26/6/2026"
+        },
+        {
+            "id": 1782466259953,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Lập trình kịch bản tích hợp: Script Wazuh->TheHive & Script MISP->CDB Lists",
+            "time": "16:30:59 26/6/2026"
+        },
+        {
+            "id": 1782466258479,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "16:30:58 26/6/2026"
+        },
+        {
+            "id": 1782283693270,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "13:48:13 24/6/2026"
+        },
+        {
+            "id": 1782283678172,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "11",
+            "time": "13:47:58 24/6/2026"
+        },
+        {
+            "id": 1782283674651,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive",
+            "time": "13:47:54 24/6/2026"
+        },
+        {
+            "id": 1782283673861,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "",
+            "time": "13:47:53 24/6/2026"
+        },
+        {
+            "id": 1782283670367,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "1",
+            "time": "13:47:50 24/6/2026"
+        },
+        {
+            "id": 1782283667774,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive",
+            "time": "13:47:47 24/6/2026"
+        },
+        {
+            "id": 1782283443696,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "11",
+            "time": "13:44:03 24/6/2026"
+        },
+        {
+            "id": 1782283090599,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Lập trình kịch bản tích hợp: Script Wazuh->TheHive & Script MISP->CDB Lists",
+            "time": "13:38:10 24/6/2026"
+        },
+        {
+            "id": 1782283072065,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "",
+            "time": "13:37:52 24/6/2026"
+        },
+        {
+            "id": 1782282982778,
+            "user": "khoa",
+            "action": "CREATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive",
+            "time": "13:36:22 24/6/2026"
+        },
+        {
+            "id": 1782282970196,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "1",
+            "time": "13:36:10 24/6/2026"
+        },
+        {
+            "id": 1782282902097,
+            "user": "khoa",
+            "action": "CREATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive",
+            "time": "13:35:02 24/6/2026"
+        },
+        {
+            "id": 1782282804770,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "13:33:24 24/6/2026"
+        },
+        {
+            "id": 1782227009794,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "22:03:29 23/6/2026"
+        },
+        {
+            "id": 1782226953429,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "22:02:33 23/6/2026"
+        },
+        {
+            "id": 1782203920558,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Nghiên cứu Prompt AI nâng cao (TN5 + TN6) & Đóng gói Git Repo",
+            "time": "15:38:40 23/6/2026"
+        },
+        {
+            "id": 1782201077916,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "14:51:17 23/6/2026"
+        },
+        {
+            "id": 1782201057960,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "14:50:57 23/6/2026"
+        },
+        {
+            "id": 1782111897970,
+            "user": "thai",
+            "action": "CREATE",
+            "taskName": "Triển khai tính năng GeoIP Enrichment (Làm giàu dữ liệu địa lý)",
+            "time": "14:04:57 22/6/2026"
+        },
+        {
+            "id": 1782111237198,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "13:53:57 22/6/2026"
+        },
+        {
+            "id": 1782111184182,
+            "user": "khoa",
+            "action": "CREATE",
+            "taskName": "Cấu hình API giữa cortex --> thehive, wazuh <-->thehive ",
+            "time": "13:53:04 22/6/2026"
+        },
+        {
+            "id": 1782110791456,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Cấu hình cổng kết nối thông minh: Cortex <-> TheHive Integration",
+            "time": "13:46:31 22/6/2026"
+        },
+        {
+            "id": 1782110433859,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "13:40:33 22/6/2026"
+        },
+        {
+            "id": 1782110412569,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "13:40:12 22/6/2026"
+        },
+        {
+            "id": 1782110393826,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Dựng đường hầm claudeflare",
+            "time": "13:39:53 22/6/2026"
+        },
+        {
+            "id": 1782110343668,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Dựng đường hầm claudeflare",
+            "time": "13:39:03 22/6/2026"
+        },
+        {
+            "id": 1782110316250,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Setup server MISP",
+            "time": "13:38:36 22/6/2026"
+        },
+        {
+            "id": 1782110295021,
+            "user": "nhannghia",
+            "action": "CREATE",
+            "taskName": "Setup server MISP, config để MISP tự đi lấy thông tin tình báo từ các intelligence platform open source trên internet",
+            "time": "13:38:15 22/6/2026"
+        },
+        {
+            "id": 1782110178746,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Xây dựng tập dữ liệu Machine Learning Baseline & Trích xuất log kiểm thử AI",
+            "time": "13:36:18 22/6/2026"
+        },
+        {
+            "id": 1782110139046,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "13:35:39 22/6/2026"
+        },
+        {
+            "id": 1782110131167,
+            "user": "nhannghia",
+            "action": "DELETE",
+            "taskName": "Triển khai hạ tầng điều phối Cortex package & Trích xuất log mẫu cho Rule Engine",
+            "time": "13:35:31 22/6/2026"
+        },
+        {
+            "id": 1782110119675,
+            "user": "nhannghia",
+            "action": "CREATE",
+            "taskName": "Dựng đường hầm claudeflare",
+            "time": "13:35:19 22/6/2026"
+        },
+        {
+            "id": 1782109216124,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Lập trình kịch bản tích hợp: Script Wazuh->TheHive & Script MISP->CDB Lists",
+            "time": "13:20:16 22/6/2026"
+        },
+        {
+            "id": 1782035458300,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Quy hoạch vận hành TheHive & Thiết kế trực quan hóa dữ liệu nâng cao",
+            "time": "16:50:58 21/6/2026"
+        },
+        {
+            "id": 1782031805035,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Quy hoạch vận hành TheHive & Thiết kế trực quan hóa dữ liệu nâng cao",
+            "time": "15:50:05 21/6/2026"
+        },
+        {
+            "id": 1782031802441,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Dọn nợ Dashboard Phase 1 & Triển khai Web Target (OWASP Juice Shop)",
+            "time": "15:50:02 21/6/2026"
+        },
+        {
+            "id": 1782031215250,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "15:40:15 21/6/2026"
+        },
+        {
+            "id": 1782031204686,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "15:40:04 21/6/2026"
+        },
+        {
+            "id": 1782031199265,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "15:39:59 21/6/2026"
+        },
+        {
+            "id": 1782031193894,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "15:39:53 21/6/2026"
+        },
+        {
+            "id": 1782031120667,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "15:38:40 21/6/2026"
+        },
+        {
+            "id": 1781961385373,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Quy hoạch vận hành TheHive & Thiết kế trực quan hóa dữ liệu nâng cao",
+            "time": "20:16:25 20/6/2026"
+        },
+        {
+            "id": 1781588958936,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "12:49:18 16/6/2026"
+        },
+        {
+            "id": 1781588948779,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "12:49:08 16/6/2026"
+        },
+        {
+            "id": 1781588930703,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Lập trình Backend tương tác SOAR: Telegram Approve/Reject",
+            "time": "12:48:50 16/6/2026"
+        },
+        {
+            "id": 1781504531614,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Dọn nợ Dashboard Phase 1 & Triển khai Web Target (OWASP Juice Shop)",
+            "time": "13:22:11 15/6/2026"
+        },
+        {
+            "id": 1781504525245,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Dọn nợ Dashboard Phase 1 & Triển khai Web Target (OWASP Juice Shop)",
+            "time": "13:22:05 15/6/2026"
+        },
+        {
+            "id": 1781504525084,
+            "user": "trong",
+            "action": "UPDATE",
+            "taskName": "Dọn nợ Dashboard Phase 1 & Triển khai Web Target (OWASP Juice Shop)",
+            "time": "13:22:05 15/6/2026"
+        },
+        {
+            "id": 1781500182166,
+            "user": "nhannghia",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi Pipeline bảo mật: Bật mã hóa TLS/SSL & Sửa chỉ số Nmap target",
+            "time": "12:09:42 15/6/2026"
+        },
+        {
+            "id": 1781495044026,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "10:44:04 15/6/2026"
+        },
+        {
+            "id": 1781495037715,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài đặt hệ thống lõi điều phối: TheHive VM + MISP VM",
+            "time": "10:43:57 15/6/2026"
+        },
+        {
+            "id": 1781495015704,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "10:43:35 15/6/2026"
+        },
+        {
+            "id": 1781257993124,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "16:53:13 12/6/2026"
+        },
+        {
+            "id": 1781257983658,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "16:53:03 12/6/2026"
+        },
+        {
+            "id": 1781256911438,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "123",
+            "time": "16:35:11 12/6/2026"
+        },
+        {
+            "id": 1781256895088,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "123",
+            "time": "16:34:55 12/6/2026"
+        },
+        {
+            "id": 1781256783519,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "16:33:03 12/6/2026"
+        },
+        {
+            "id": 1781241622122,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "12:20:22 12/6/2026"
+        },
+        {
+            "id": 1781241616812,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "12:20:16 12/6/2026"
+        },
+        {
+            "id": 1781238494547,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "11:28:14 12/6/2026"
+        },
+        {
+            "id": 1781238486663,
+            "user": "thai",
+            "action": "UPDATE",
+            "taskName": "Vá lỗi AI Phase 1: TN3 fix & Null crash fix",
+            "time": "11:28:06 12/6/2026"
+        },
+        {
+            "id": 1781102892783,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Xây dựng lõi SOAR & Tích hợp Threat Intelligence dữ liệu",
+            "time": "21:48:12 10/6/2026"
+        },
+        {
+            "id": 1781102885239,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "21:48:05 10/6/2026"
+        },
+        {
+            "id": 1781102296158,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "21:38:16 10/6/2026"
+        },
+        {
+            "id": 1781102223394,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "21:37:03 10/6/2026"
+        },
+        {
+            "id": 1781102218178,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai hạ tầng và xử lý nợ kỹ thuật lõi",
+            "time": "21:36:58 10/6/2026"
+        },
+        {
+            "id": 1781101860106,
+            "user": "SYSTEM",
+            "action": "IMPORT JSON",
+            "taskName": "21 task",
+            "time": "21:31:00 10/6/2026"
+        },
+        {
+            "id": 1781101298874,
+            "user": "thai",
+            "action": "DELETE",
+            "taskName": "Viết báo cáo",
+            "time": "21:21:38 10/6/2026"
+        },
+        {
+            "id": 1781101294714,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Cài Wazuh",
+            "time": "21:21:34 10/6/2026"
+        },
+        {
+            "id": 1781101290671,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Lab Security Onion",
+            "time": "21:21:30 10/6/2026"
+        },
+        {
+            "id": 1781080721855,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài Wazuh",
+            "time": "15:38:41 10/6/2026"
+        },
+        {
+            "id": 1781080718556,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài Wazuh",
+            "time": "15:38:38 10/6/2026"
+        },
+        {
+            "id": 1781080715008,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài Wazuh",
+            "time": "15:38:35 10/6/2026"
+        },
+        {
+            "id": 1781080711578,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài Wazuh",
+            "time": "15:38:31 10/6/2026"
+        },
+        {
+            "id": 1781080704027,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Cài Wazuh",
+            "time": "15:38:24 10/6/2026"
+        },
+        {
+            "id": 1781078799078,
+            "user": "SYSTEM",
+            "action": "IMPORT JSON",
+            "taskName": "3 task",
+            "time": "15:06:39 10/6/2026"
+        },
+        {
+            "id": 1781078796540,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Lab Security Onion",
+            "time": "15:06:36 10/6/2026"
+        },
+        {
+            "id": 1781078794959,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Cài Wazuh",
+            "time": "15:06:34 10/6/2026"
+        },
+        {
+            "id": 1781078793728,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Viết báo cáo",
+            "time": "15:06:33 10/6/2026"
+        },
+        {
+            "id": 1781078560179,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "3 task",
+            "time": "15:02:40 10/6/2026"
+        },
+        {
+            "id": 1781078547775,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "15:02:27 10/6/2026"
+        },
+        {
+            "id": 1781077720202,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "14:48:40 10/6/2026"
+        },
+        {
+            "id": 1781077713265,
+            "user": "khoa",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:48:33 10/6/2026"
+        },
+        {
+            "id": 1781077672922,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Import",
+            "time": "14:47:52 10/6/2026"
+        },
+        {
+            "id": 1781077665941,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Test Import",
+            "time": "14:47:45 10/6/2026"
+        },
+        {
+            "id": 1781077654918,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:47:34 10/6/2026"
+        },
+        {
+            "id": 1781077443032,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "14:44:03 10/6/2026"
+        },
+        {
+            "id": 1781077439114,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:43:59 10/6/2026"
+        },
+        {
+            "id": 1781077436814,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "14:43:56 10/6/2026"
+        },
+        {
+            "id": 1781077419215,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:43:39 10/6/2026"
+        },
+        {
+            "id": 1781077416793,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "14:43:36 10/6/2026"
+        },
+        {
+            "id": 1781077278611,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:41:18 10/6/2026"
+        },
+        {
+            "id": 1781077276560,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Trời đất",
+            "time": "14:41:16 10/6/2026"
+        },
+        {
+            "id": 1781077263367,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "Trời đất",
+            "time": "14:41:03 10/6/2026"
+        },
+        {
+            "id": 1781077222646,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Test Import",
+            "time": "14:40:22 10/6/2026"
+        },
+        {
+            "id": 1781077208050,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "1 task",
+            "time": "14:40:08 10/6/2026"
+        },
+        {
+            "id": 1781077170814,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Tích hợp Telegram",
+            "time": "14:39:30 10/6/2026"
+        },
+        {
+            "id": 1781077169270,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "Triển khai Wazuh",
+            "time": "14:39:29 10/6/2026"
+        },
+        {
+            "id": 1781076499349,
+            "user": "master-task",
+            "action": "UPDATE",
+            "taskName": "Triển khai Wazuh",
+            "time": "14:28:19 10/6/2026"
+        },
+        {
+            "id": 1781076395450,
+            "user": "master-task",
+            "action": "IMPORT JSON",
+            "taskName": "2 task",
+            "time": "14:26:35 10/6/2026"
+        },
+        {
+            "id": 1781075684086,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "",
+            "time": "14:14:44 10/6/2026"
+        },
+        {
+            "id": 1781075681692,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "",
+            "time": "14:14:41 10/6/2026"
+        },
+        {
+            "id": 1781074813643,
+            "user": "khoa",
+            "action": "DELETE",
+            "taskName": "Chơi gái",
+            "time": "14:00:13 10/6/2026"
+        },
+        {
+            "id": 1781007276458,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "19:14:36 9/6/2026"
+        },
+        {
+            "id": 1781007271115,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "19:14:31 9/6/2026"
+        },
+        {
+            "id": 1781007264472,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "19:14:24 9/6/2026"
+        },
+        {
+            "id": 1781007251752,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "123",
+            "time": "19:14:11 9/6/2026"
+        },
+        {
+            "id": 1781007232495,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "123",
+            "time": "19:13:52 9/6/2026"
+        },
+        {
+            "id": 1781004451437,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "18:27:31 9/6/2026"
+        },
+        {
+            "id": 1781004448475,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "18:27:28 9/6/2026"
+        },
+        {
+            "id": 1781004439806,
+            "user": "khoa",
+            "action": "UPDATE",
+            "taskName": "Chơi gái",
+            "time": "18:27:19 9/6/2026"
+        },
+        {
+            "id": 1781001920304,
+            "user": "master-task",
+            "action": "DELETE",
+            "taskName": "ASD",
+            "time": "17:45:20 9/6/2026"
+        },
+        {
+            "id": 1781001873128,
+            "user": "master-task",
+            "action": "CREATE",
+            "taskName": "ASD",
+            "time": "17:44:33 9/6/2026"
+        }
+    ]
+}
